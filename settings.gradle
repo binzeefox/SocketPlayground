@@ -1,0 +1,4 @@
+include ':HttpTest'
+include ':FoxDevFrame'
+include ':app'
+rootProject.name = "SocketPlayground"
